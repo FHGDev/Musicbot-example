@@ -1,0 +1,14 @@
+{
+  "name": "example-musicbot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "latest",
+    "ytdl-core": "latest",
+    "opusscript": "latest",
+    "snekfetch": "latest",
+    "dotenv": "latest",
+    "ffmpeg": "latest",
+    "ffmpeg-binaries": "latest"
+  }
+}
